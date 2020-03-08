@@ -68,6 +68,7 @@ body {
   nav {
     float: right;
     margin-top: 25px;
+    padding-right: 25px;
   }
   nav a {
     display: inline-block;
@@ -152,6 +153,7 @@ body {
   /* contact page */
   #contact-form ul {
     margin-bottom: 20px;
+    list-style: none;
   }
   #contact-form li {
     margin-bottom: 10px;
